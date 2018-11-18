@@ -12,12 +12,19 @@ body {
 .Subheadings {
     font-size: 40px;
 }
+
+.Subheadings-right {
+    font-size: 40px;
+    
+}
+
 #name {
     text-align: center;
 }
 
 .pictures {
     width: 300px;
+    
 }
 
 .introduction-section {
