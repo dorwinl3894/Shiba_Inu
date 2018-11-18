@@ -1,0 +1,40 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'Indie Flower';
+    font-size: 20px;
+}
+
+.title {
+    text-align: center;
+    color: red;
+}
+
+.Subheadings {
+    font-size: 40px;
+}
+#name {
+    text-align: center;
+}
+
+.pictures {
+    width: 300px;
+}
+
+.introduction-section {
+    display: flex;
+    align-items: center;
+}
+
+.name-section {
+    display: flex;
+    align-items: center;
+}
+
+#name-info {
+    margin-left: 20px;
+}
+
+.anatomy-section {
+    display: flex;
+    align-items: center;
+}
