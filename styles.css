@@ -45,3 +45,20 @@ body {
     display: flex;
     align-items: center;
 }
+
+.section1 {
+    background-color: aquamarine;
+    border: 2px black solid
+}
+
+.section2 {
+    margin-top: 15px;
+    background-color: bisque;
+    border: 2px black solid;
+}
+
+.section3 {
+    margin-top: 15px;
+    background-color: aquamarine;
+    border: 2px black solid;
+}
