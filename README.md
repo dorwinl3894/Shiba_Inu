@@ -1,4 +1,4 @@
-## This is a practice project for HTML/CSS  
+## This is a practice project for HTML/CSS/JS
 #### by Dorwin Liang  
 ---  
 ### This project was made in ***VS Code***  
