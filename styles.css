@@ -5,18 +5,20 @@ body {
 }
 
 .title {
-    text-align: center;
+    /* text-align: center; */
     color: red;
+    background-color: bisque;
+    display: flex;
+ 
+    
+    
 }
 
 .Subheadings {
     font-size: 40px;
+    margin-left: 10px;
 }
 
-.Subheadings-right {
-    font-size: 40px;
-    
-}
 
 #name {
     text-align: center;
@@ -39,6 +41,7 @@ body {
 
 #name-info {
     margin-right: 20px;
+    margin-left: 10px;
 }
 
 .anatomy-section {
