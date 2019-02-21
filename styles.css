@@ -79,3 +79,22 @@ body {
     background-color: aquamarine;
     border: 2px black solid;
 }
+
+
+@media (max-width: 800px) {
+    * {
+        margin: 1px;
+        padding: 1px;
+    }
+    .list {
+        height: auto;
+        flex-direction: column;
+    }
+    .picturess {
+        width: 100%;
+    }
+    .introduction-section, .name-section, .anatomy-section {
+        display: flex;
+        flex-direction: column;
+    }
+}
